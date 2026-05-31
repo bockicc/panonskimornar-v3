@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+Sitemap: https://balasevic-memorial.netlify.app/sitemap.xml
